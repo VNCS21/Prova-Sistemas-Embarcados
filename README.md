@@ -1,6 +1,6 @@
 # Prova-Sistemas-Embarcados
 
-# Instituto de Ciencias Exatas e Tecnolgia-ICET/UFAM
+# Instituto de Ciencias Exatas e Tecnologia-ICET/UFAM
 
 Aluno: Marcos Vinicius da Silva e Silva
 Número de matricula: 21852027
